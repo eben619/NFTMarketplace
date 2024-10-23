@@ -39,4 +39,4 @@ Deployment:
 
 License:
 
-MIT License
+MIT Licenses
