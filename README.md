@@ -2,7 +2,7 @@ NFTMarketplace
 
 This smart contract implements a basic NFT marketplace on the Ethereum blockchain.
 
- It allows users to mint NFTs, list them for sale, buy NFTs, and delist them. The contract utilizes OpenZeppelin's ERC721 standard for NFT functionality.
+ It allows users to mint NFTs, list them for sale, buy NFTs, and also delist them. The contract utilizes OpenZeppelin's ERC721 standard for NFT functionality.
 
 Features:
 
